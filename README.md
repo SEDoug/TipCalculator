@@ -4,14 +4,13 @@ This is a bit complex for a basic tip calculator. Using editTextView &amp; Butto
 Created by @DougMacGregor || http://doug-macgregor.webflow.io/ <br>
 Seeking a broader field and desire to do work in mobile application development.
 
-## Front Sheet Views
+## Sheet Views
 
-<b>Vertical</b><br>
+<b>Vertical Layout</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal01.JPG)
-#
-#Horizontal
+<b>Horizontal Layout</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal02.JPG)
-#Horizontal
+<b>Horizontal Layout</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal03.JPG)
-#Horizontal
+<b>Horizontal Layout</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal04.JPG)
