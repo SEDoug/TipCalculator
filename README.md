@@ -6,7 +6,7 @@ Seeking a broader field and desire to do work in mobile application development.
 
 ## Front Sheet Views
 
-<b>Vertical</b>
+<b>Vertical</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal01.JPG)
 #
 #Horizontal
