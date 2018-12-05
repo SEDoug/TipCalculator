@@ -7,10 +7,10 @@ Seeking a broader field and desire to do work in mobile application development.
 ## Sheet Views
 
 <b>Vertical Layout</b><br>
-![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal01.JPG)
+![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal01.JPG)<hr>
 <b>Horizontal Layout</b><br>
-![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal02.JPG)
+![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal02.JPG)<br>
 <b>Horizontal Layout</b><br>
-![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal03.JPG)
+![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal03.JPG)<br>
 <b>Horizontal Layout</b><br>
-![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal04.JPG)
+![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal04.JPG)<hr>
