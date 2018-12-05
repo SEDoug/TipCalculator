@@ -5,7 +5,11 @@ Created by @DougMacGregor || http://doug-macgregor.webflow.io/ <br>
 Seeking a broader field and desire to do work in mobile application development.
 
 ## Front Sheet Views
+
+Vertical
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal01.JPG)
+#
+#Horizontal
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal02.JPG)
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal03.JPG)
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal04.JPG)
