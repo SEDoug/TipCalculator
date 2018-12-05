@@ -4,7 +4,10 @@ This is a bit complex for a basic tip calculator. Using editTextView &amp; Butto
 Created by @DougMacGregor || http://doug-macgregor.webflow.io/ <br>
 Seeking a broader field and desire to do work in mobile application development.
 
-Here are some images
+Front Sheet Views
 
 ## main
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/Screenshot%20from%202017-10-19%2020-44-01.png)
+![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal01.JPG)
+![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal02.JPG)
+![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal03.JPG)
+![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal04.JPG)
