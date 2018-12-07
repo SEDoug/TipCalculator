@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -8,6 +9,7 @@
     android:paddingTop="16dp"
     android:paddingRight="16dp"
     android:paddingBottom="16dp"
+    android:background="@color/colorAccent"
     tools:context=".MainActivity">
 
     <android.support.design.widget.TextInputLayout
@@ -37,7 +39,7 @@
     </android.support.design.widget.TextInputLayout>
 
     <android.support.design.widget.CoordinatorLayout
-        android:id="@+id/snackbarcontainer"
+        android:id="@+id/coordinatorLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -46,8 +48,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
+            android:bottomRightRadius="20dp"
             android:gravity="center"
+            android:textColor="@color/btText"
+            android:background="@drawable/rounded_button"
             android:text="@string/button_title" />
+
     </android.support.design.widget.CoordinatorLayout>
+
+
 
 </LinearLayout>

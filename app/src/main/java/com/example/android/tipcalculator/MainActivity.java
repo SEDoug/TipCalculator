@@ -1,5 +1,6 @@
 package com.example.android.tipcalculator;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.design.widget.CoordinatorLayout;
 import android.support.design.widget.Snackbar;
@@ -9,7 +10,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import static com.example.android.tipcalculator.R.id.snackbarcontainer;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         mEditAmount = findViewById(R.id.total_amount);
         mEditPercentage = findViewById(R.id.tip_percentage);
-        Button mTip = findViewById(R.id.tip);
-        mSnackBarLayout = findViewById(R.id.snackbarcontainer);
+        mSnackBarLayout = findViewById(R.id.coordinatorLayout);
+        final Button mTip = findViewById(R.id.tip);
         mTip.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 double tip_per = Double.parseDouble(mEditPercentage.getText().toString());
                 tip_res = (amount*tip_per)/100;
                 Log.d(TAG, "onClick() called with: v = [" + tip_res + "]");
+                mTip.setTextColor(Color.WHITE);
 
                 final Snackbar snackbar = Snackbar.make(mSnackBarLayout,
                         "Tip is: $"+tip_res,
