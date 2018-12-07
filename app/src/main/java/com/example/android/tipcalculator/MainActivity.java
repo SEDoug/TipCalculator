@@ -35,12 +35,13 @@ public class MainActivity extends AppCompatActivity {
                 double tip_per = Double.parseDouble(mEditPercentage.getText().toString());
                 tip_res = (amount*tip_per)/100;
                 Log.d(TAG, "onClick() called with: v = [" + tip_res + "]");
-                mTip.setTextColor(Color.WHITE);
+                mTip.setTextColor(Color.BLACK);
 
                 final Snackbar snackbar = Snackbar.make(mSnackBarLayout,
                         "Tip is: $"+tip_res,
-                        Snackbar.LENGTH_INDEFINITE);
+                        Snackbar.LENGTH_SHORT);
 
+                snackbar.setActionTextColor(getResources().getColor(R.color.colorAccent));
                 snackbar.show();
 
             }
