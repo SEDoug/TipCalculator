@@ -15,6 +15,8 @@ The person using this app would be sitdown customer in a restaurant.  Getting cl
 #### Example
 When a person gets the check at the end of a meal and they would like to calculate how much to leave for a tip for their server, they need to do mental math.  The point of the tip calculator is to enter the bill total, choose a percentage tip they would like to leave, and the app tells them how much money that would equal.
 
+My bill is $15.39. My server was pretty good so I want to give a decent tip. I think maybe 18% would be good. I would really like a calculator that I can use to help me figure out how much money 15.39 * 0.18 equals. Or maybe I would like to fiddle with the percentage to give a number I think it good.
+
 #### Sheet Views
 <b>Horizontal Layout with new button and color</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tablet03.JPG)<hr>
