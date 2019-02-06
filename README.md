@@ -6,8 +6,8 @@ Seeking a broader field and desire to do work in mobile application development.
 <hr>
 
 ## What I learned
-<li>Developed a user interface within the xml file using RelativeLayout, ListView, EditText, & ButtonView.</li><br>
-<li>Implemented functinality to the UI:</li></br>
+<li>Developed a user interface within the xml file using RelativeLayout, ListView, EditText, & ButtonView.</li>
+<li>Implemented functinality to the UI:</li>
 
 ### Who is going to use this app
 The person using this app would be sitdown customer in a restaurant.  Getting close to EBD, they would like a quick and healthy idea for dinner. 
