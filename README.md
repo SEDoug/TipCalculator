@@ -1,7 +1,7 @@
 # TipCalculator
 This is a basic tip calculator. Android Studio 3.2.1
 
-Created by @DougMacGregor || http://doug-macgregor.webflow.io/ <br>
+Created by @DougMacGregor || http://doug-macgregor.webflow.io/projects/mobile-apps <br>
 Seeking a broader field and desire to do work in mobile application development.
 <hr>
 
