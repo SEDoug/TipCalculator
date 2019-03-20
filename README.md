@@ -10,7 +10,7 @@ Seeking a broader field and desire to do work in mobile application development.
 <li>Implemented functinality to the UI:</li>
 
 ### Who is going to use this app
-The person using this app would be sitdown customer in a restaurant.  Getting close to EBD, they would like a quick and healthy idea for dinner. 
+The person using this app would be a sitdown customer in a restaurant.
 
 #### Example
 When a person gets the check at the end of a meal and they would like to calculate how much to leave for a tip for their server, they need to do mental math.  The point of the tip calculator is to enter the bill total, choose a percentage tip they would like to leave, and the app tells them how much money that would equal.
